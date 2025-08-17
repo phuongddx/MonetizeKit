@@ -2,6 +2,12 @@
 
 A complete, modular Swift Package Manager (SPM) library for handling In-App Purchases using StoreKit 2. Built for iOS 15+ with Swift 5.7+, MonetizeKit provides a modern, async/await-based API for managing IAP operations with built-in caching, transaction observation, and entitlement tracking.
 
+## 📚 Documentation
+
+- **[Full API Documentation](https://github.com/phuongddx/MonetizeKit/tree/wiki-docs/docs)** - Complete API reference and guides
+- **[Quick Start Guide](https://github.com/phuongddx/MonetizeKit/blob/wiki-docs/docs/Quick-Start.md)** - Get up and running quickly
+- **[Installation Guide](https://github.com/phuongddx/MonetizeKit/blob/wiki-docs/docs/Installation.md)** - Detailed installation instructions
+
 ## Features
 
 - ✅ **StoreKit 2 Integration**: Built on Apple's latest StoreKit framework
